@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kadai2/static/css/main.e012f8b4.chunk.css",
+    "main.js": "/kadai2/static/js/main.cb297236.chunk.js",
+    "main.js.map": "/kadai2/static/js/main.cb297236.chunk.js.map",
+    "runtime-main.js": "/kadai2/static/js/runtime-main.49f0e3dc.js",
+    "runtime-main.js.map": "/kadai2/static/js/runtime-main.49f0e3dc.js.map",
+    "static/js/2.b25a4acb.chunk.js": "/kadai2/static/js/2.b25a4acb.chunk.js",
+    "static/js/2.b25a4acb.chunk.js.map": "/kadai2/static/js/2.b25a4acb.chunk.js.map",
+    "index.html": "/kadai2/index.html",
+    "precache-manifest.468f7178b871c245b44c9a19c40bd7e7.js": "/kadai2/precache-manifest.468f7178b871c245b44c9a19c40bd7e7.js",
+    "service-worker.js": "/kadai2/service-worker.js",
+    "static/css/main.e012f8b4.chunk.css.map": "/kadai2/static/css/main.e012f8b4.chunk.css.map",
+    "static/js/2.b25a4acb.chunk.js.LICENSE.txt": "/kadai2/static/js/2.b25a4acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49f0e3dc.js",
+    "static/js/2.b25a4acb.chunk.js",
+    "static/css/main.e012f8b4.chunk.css",
+    "static/js/main.cb297236.chunk.js"
+  ]
+}
